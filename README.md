@@ -52,5 +52,3 @@ For better visualization, the **SQL for Data Analysis PDF** includes screenshots
 * Syntax examples with proper formatting
 * Sample output tables for each query
 * Visual aids like charts and result highlights to connect queries with insights
-
-Do you want me to also **add a "Getting Started" section** (steps on how to run these scripts in MySQL Workbench/CLI) so it looks like a full professional project README?
